@@ -63,7 +63,7 @@ if __name__ == "__main__":
     myFunction(2)
 
 
-'''#1.Function Based Decorator:
+#1.Function Based Decorator:
 def my_decorator(func):
     def wrapper():
         print("Something before the function runs.")
@@ -129,7 +129,7 @@ def add(x, y):
 #@auth
 #@log
 def update():
-    pass'''
+    pass
 
 
 

@@ -1,4 +1,4 @@
-# 🤖 Chatbot Application — Python Learning Journey by Aneelkumar M 🚀
+# Python Learning Journey by Aneelkumar M 🚀
 
 Welcome!  
 This repository is part of my hands-on journey learning Python, Django, and MySQL. I'm currently developing a **Chatbot Application** while exploring real-world tools and technologies. With just 2 months into Python, I'm diving deep, one commit at a time.
